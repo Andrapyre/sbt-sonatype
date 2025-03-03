@@ -13,7 +13,7 @@ A sbt plugin for publishing your project to the Maven central repository through
 
  After these steps, your project will be synchronized to the Maven central within ten minutes. No longer need to enter the web interface of
  [Sonatype Nexus repository](http://oss.sonatype.org/) to perform these release steps.
-
+/
 
 - [Release notes](ReleaseNotes.md)
 - sbt-sonatype is available for sbt 1.x series.
